@@ -1,0 +1,3 @@
+include ':mymath'
+include ':app'
+rootProject.name = "p141c_Library"
